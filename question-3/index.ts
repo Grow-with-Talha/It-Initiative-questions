@@ -1,0 +1,1 @@
+console.log("Grand master Oggway once said , \n \"Yesterday is history, tomorrow is a mystery, but today is a gift. That's why its called the \'Present\'\" ")
