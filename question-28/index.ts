@@ -19,8 +19,9 @@ const validate = (value: string) => {
             } else {
                 console.log(`Hello ${value}. Thanks for logging again.`)
             }
-        }
-         else {
+        } else if(usernames.length === 0){
+                console.log("we need to find new users")
+        } else {
             console.log("username not found")
         }
     
